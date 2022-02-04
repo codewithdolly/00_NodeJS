@@ -1,0 +1,26 @@
+{
+  "name": "00_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "devStart":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hcmay2021-Dolly/00_NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hcmay2021-Dolly/00_NodeJS/issues"
+  },
+  "homepage": "https://github.com/hcmay2021-Dolly/00_NodeJS#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
